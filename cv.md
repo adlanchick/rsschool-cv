@@ -13,7 +13,7 @@
 * JavaScript (ES5, ES6)
 * Git
 * VSCode, Sublime Text 3
-# Education:
+## Education:
 
 2017-BNTU
 ## English level:
